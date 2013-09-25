@@ -1,4 +1,6 @@
 20q
 ===
 
-Neural network like 20Q Game using java programming language and Neuroph library. Detailed information codes,paper hosted on here.
+check the web page;
+
+http://eldemcan.github.io/20q
